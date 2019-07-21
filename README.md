@@ -1,6 +1,6 @@
-README for CS251 - A9 (Substitution Cipher)
+# D-Cipher
 
-DURGESH AGRAWAL (170262) and HARSH AGARWAL (170287)
+### Authors: HARSH AGARWAL (170287) and DURGESH AGRAWAL (170262)
 
 The code is divided into three parts : Frequency analysis, Random Swap from Dictionary and Fitness check
 
